@@ -1,10 +1,10 @@
 export default defineAppConfig({
-  name: "Igor's lucky notes",
+  name: "Italo's lucky notes",
   description: "Build & learn in public notes",
-  host: "notes.igorhalfeld.com",
+  host: "italo-luckynotes.vercel.app",
 
   author: {
-    twitter: "igorhalfeld",
+    twitter: "ItaloCantur",
   },
 
   publishing: {
